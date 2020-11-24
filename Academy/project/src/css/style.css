@@ -1,0 +1,95 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: tahoma, sans-serif;
+	line-height: 1.5;
+	color: #353535;
+}
+.section {
+	padding: 30px 10%;
+}
+.header {
+	margin-top:80px;
+	text-align: center;
+	border: 2px solid red;
+	font-size: 24px;
+}
+.header span {
+	font-weight: 300;
+	display: block;
+}
+.header strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.main { 
+	margin-top: 80px;
+	text-align: center;
+}
+.video, .form {
+		display: inline-block;
+		vertical-align: top;
+}
+.form{ 
+		text-align: center;
+		border: 5px solid #0048D6;
+		padding: 20px;
+		margin-left: 30px;
+		height: 300px;
+		width: 350px;
+}
+.form-header {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form input {
+	display: block;
+	width: 300px;
+	height: 50px;
+	padding: 17px;
+	bottom: 1px solid #333;
+	font-style: 18px;
+	margin-top: 10px;
+}
+#btn-1 {
+	background-color: #3c3cdd;
+	height: 50px;
+	width: 300px;
+	margin-top: 10px;
+	color: #FFFFFF;
+	border-radius: 10px;
+	font-size: 18px;
+	font-weight: 900;
+	border: none;
+}
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 50px 50px;
+}
+.future-header {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-style: 24px;
+	margin-top: 90px;
+}
+.future {
+	text-align: center; 
+}
+.future-btn { 
+	background-color: #3c3cdd;
+	height: 50px;
+	width: 300px;
+	margin-top: 10px;
+	color: #FFFFFF;
+	border-radius: 5px;
+	font-size: 18px;
+	font-weight: 900;
+	border: none;
+	display: block;
+	margin: 11px auto;
+}
