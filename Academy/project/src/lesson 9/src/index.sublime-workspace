@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"f",
+				"form.css"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"thi",
+				"thin\tborder"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"fo",
+				"font-style\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bs 6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Emmet: Wrap with Abbreviation"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"div ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 203.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Библиотека/Курсы/Программирование/[Академия верстки] Веб-разработчик 10.0 (Автор Артем Исламов) (2018)/[SW.BAND] Модуль 3/[SW.BAND] Дз к модулю 3/Урок 9/Решение/src/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/project/урок 6/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/lesson 8/project/src/css/style.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/lesson 8/project/src/index.sublime-project",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/bs.txt",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/lesson 8/project/src/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/starbuzz.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/css/main.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/form.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/project/src/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/project/src/css/style.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Academy/project/src/css/bootstrap.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/form.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/index2.html",
+		"/I/библиотека/HTML/hfhtmlcss/chapter14/starbuzz/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/less/main.less",
+		"/I/библиотека/HTML/ПОЛИГОН/chapter3/journal/journal.html",
+		"/I/библиотека/HTML/ПОЛИГОН/chapter3/journal/journal.css",
+		"/I/библиотека/HTML/hfhtmlcss/chapter14/starbuzz/starbuzz.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/css/bootstrap-4.5.3-dist/bootstrap-4.5.3-dist/css/bootstrap.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/blog.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/blog.css",
+		"/C/Users/Руслан/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/Руслан/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+		"/D/Библиотека/Курсы/Программирование/[Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)/01. Основы HTML и CSS/Материалы/04. Создание скелета HTML-документа/4/myweb/index.html",
+		"/C/Users/Руслан/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/C/Users/Руслан/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/README.md",
+		"/D/Библиотека/Курсы/Программирование/[Brainscloud] [Дмитрий Валак] Основы создания сайтов. HTML и CSS для начинающих (2019)/01. Основы HTML и CSS/Материалы/04. Создание скелета HTML-документа/__MACOSX/4/myweb/._index.html",
+		"/D/Библиотека/Курсы/Программирование/web_razrabot/web_razrabot/Модуль 1. Погружение в тему создания web-продуктов/004 Photoshop-Windows.txt",
+		"/I/библиотека/JavaScript/ПОЛИГОН/Phrase.html",
+		"/D/Эльвира/отрисовка в векторе 333/13.jpg",
+		"/I/библиотека/JavaScript/ПОЛИГОН/Gitar.html",
+		"/I/библиотека/JavaScript/ПОЛИГОН/index.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/transfomation.html",
+		"/I/библиотека/HTML/hfhtmlcss/chapter13/journal-complete/journal.css",
+		"/I/библиотека/HTML/hfhtmlcss/chapter13/journal/journal.css",
+		"/D/Games/Metro Exodus/MetroExodus.exe",
+		"/D/Библиотека/Программирование/HTML/ПОЛИГОН/Starbuss/index.html",
+		"/I/библиотека/HTML/hfhtmlcss/chapter11/starbuzz-complete/starbuzz.css",
+		"/I/библиотека/HTML/hfhtmlcss/chapter11/absolute/index.html",
+		"/D/Библиотека/Программирование/HTML/ПОЛИГОН/Starbuss/starbuzz.css",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/ghj.html",
+		"/I/библиотека/HTML/ПОЛИГОН/Starbuss/example.html",
+		"/D/Библиотека/Программирование/HTML/ПОЛИГОН/Starbuss/freecoffee.html",
+		"/C/Users/Руслан/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Руслан/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Библиотека/Программирование/HTML/ПОЛИГОН/Starbuss/EXAMPLE.HTML"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

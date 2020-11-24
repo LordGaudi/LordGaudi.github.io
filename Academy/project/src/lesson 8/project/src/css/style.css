@@ -1,0 +1,27 @@
+h1 {
+	padding: 10px;
+	font-size: 12px;
+	font-family: Arial, sans-serif;
+	border: 3px solid red;
+}
+h1.header {
+	font-size: 36px;
+	font-family: Arial, sans-serif;
+	color: #64FA79;
+}
+img {
+	border: 3px solid violet;
+/*	margin: 10px 5px;*/
+}
+
+.future {
+	height: 200px;
+	border: 2px solid black;
+}
+.row {
+	border: 3px solid blue;
+}
+.col-sm-12 {
+	border: 3px solid green;
+}
+
